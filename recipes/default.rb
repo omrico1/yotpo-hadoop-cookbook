@@ -153,5 +153,5 @@ elsif node["yotpo-hadoop"]["machine-role"]=="slave"
     touch /home/hadoop/slave
     EOH
   end
-end
+end 
 
